@@ -1,0 +1,1 @@
+C:\DemoApp\DemoApp\DemoWebAPI.Tests\obj\Debug\DemoWebAPI.Tests.csprojResolveAssemblyReference.cache
